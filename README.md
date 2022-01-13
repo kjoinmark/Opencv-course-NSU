@@ -1,6 +1,8 @@
 # Opencv-course-NSU
 Task from opencv course in NSU
 
+Autumn 2020
+
 Некоторые условия: 
 
 Задача 13. 
