@@ -6,6 +6,8 @@ import numpy as np
 """
 Реализовать поиск пешеходов в видеопоследовательности 
 (можно использовать любой метод)
+для работы скачать файл с весами: 
+https://drive.google.com/file/d/1CHTqwFnM3xeWBEH90S7rSaSMe3K2g7iC/view?usp=sharing
 """
 
 parser = argparse.ArgumentParser()
